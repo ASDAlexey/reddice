@@ -102,4 +102,3 @@ fabric.properties
 .Trash-*
 .gitignore
 .idea/
-package.json
