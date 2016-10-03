@@ -102,3 +102,4 @@ fabric.properties
 .Trash-*
 .gitignore
 .idea/
+/node_modules/
